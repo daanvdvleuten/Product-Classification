@@ -1,5 +1,4 @@
 # Product Classification of e-commerce products
-Master Thesis- JADS DS&amp;E
 
 This repository has all the files that were used to build the ensemble model. 
 The Jupyter Notebooks have all the (anonymized) code in them, the datasets could not be disclosed. 
